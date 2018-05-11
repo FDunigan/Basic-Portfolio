@@ -42,7 +42,16 @@ header {
     color: #4aaaaf;
   }
 
-
+  #relative {
+    background: #4aaaaf;
+    position: relative;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 100px;
+    width: 33%;
+    color: white;
+}
 
 label {
     float: left;
