@@ -111,6 +111,19 @@ p {
     text-align: left;
 }
 
+.image {
+    position: relative;
+    width: 25%;
+}
+
+h4 {
+    position: absolute;
+    top: 140px;
+    left: 0;
+    width: 75%;
+    color: white;
+}
+
 footer {
     padding: 20px;
     clear: both;
