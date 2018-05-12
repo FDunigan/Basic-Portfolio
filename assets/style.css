@@ -7,6 +7,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+#heading {
+    width: 960px;
+}
+
 header {
     float: left;
     color: white;
